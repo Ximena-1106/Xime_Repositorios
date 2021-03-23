@@ -10,7 +10,7 @@ package practica2_celulares;
  *
  * @author nueva
  */
-public abstract class Celular {
+public abstract class Celular{
 public class Celular {
   private String marca; 
     private String procesador;
@@ -32,4 +32,8 @@ public class Celular {
                 +"pulgadas";
     }
     public  abstract String imprimirMarca();
+
 }
+}
+
+
